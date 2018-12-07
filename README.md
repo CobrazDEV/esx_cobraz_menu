@@ -1,2 +1,1 @@
-# fxserver-esx_menu_default
-FXServer ESX Menu Default
+Här har du ett exemplar av mina menyer!
